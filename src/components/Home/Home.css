@@ -1,0 +1,49 @@
+.category{
+    margin: auto;
+    padding: 1rem;
+    border-bottom: 2px solid #ececec;
+}
+
+.category > h2{
+    color: #1a1a1d;
+    font-weight: 600;
+}
+
+.category > a{
+    color: #1a1a1d;
+    text-decoration: none;
+    font-size: .8rem;
+    display: flex;
+    align-items: center;
+}
+
+.carousel{
+    margin-top: 30px;
+    width: 100%;
+}
+
+.carrousel-container{
+    width: 100%;
+    
+}
+
+.item{
+    position: relative;
+    width: 165px;
+    margin: auto;
+}
+
+.item > img{
+    width: 100%;
+    height: auto;
+}
+
+.item > p{
+    position: absolute;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #ececec;
+    text-transform: uppercase;
+}
+
+

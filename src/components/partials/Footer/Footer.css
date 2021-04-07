@@ -1,0 +1,79 @@
+/* 
+ #1a1a1d 
+ #614b3e
+ #8c7b73
+ #d2c1b5
+ #d28e5f
+
+*/
+
+h2{
+    font-weight: bold;
+    color: #1a1a1d ;
+    font-size: 1rem;
+    text-transform: uppercase;
+    line-height: 1.5;
+}
+
+.contact-footer{
+    padding: 1rem;
+}
+
+.contact-footer > ul{
+    line-height: 1.5;
+    list-style: none;
+}
+
+.contact-footer  p{
+    font-weight: bold;
+    color: #1a1a1d;
+}
+
+.menu-footer{
+    padding: 1rem;
+}
+
+.menu-footer > ul{
+    list-style: none;
+    line-height: 2;
+}
+
+.menu-footer  a{
+    font-weight: bold;
+    color: #1a1a1d;
+}
+
+.social-footer{
+    padding: 1rem;
+}
+
+.social-footer > ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: "center";
+    color: #1a1a1d;
+}
+
+.social-footer  li > h3 {
+    margin-top: 5px;
+}
+
+.social-footer  li > .facebookIcon {
+    font-size: 2rem;
+}
+
+.social-footer  li > .instagramIcon {
+    font-size: 2rem;
+}
+
+.social-footer  li > .whatappsIcon {
+    font-size: 2rem;
+}
+
+.coypright{
+    color: #1a1a1d;
+    font-weight: bold;
+    padding: 1rem;
+}
+
